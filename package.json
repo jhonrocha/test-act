@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^8.2.8",
+    "webpack": "^5.73.0"
+  }
 }
